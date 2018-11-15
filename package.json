@@ -1,0 +1,22 @@
+{
+  "name": "web-audio-mixer",
+  "version": "1.0.0",
+  "description": "A Web Audio API mixer featuring parametric EQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesfiltness/web-audio-mixer.git"
+  },
+  "author": "James Fitness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesfiltness/web-audio-mixer/issues"
+  },
+  "homepage": "https://github.com/jamesfiltness/web-audio-mixer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
